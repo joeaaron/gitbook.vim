@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+
 * [Vim初探系列](chapter1.md)
   * [Vim初探系列1](chapter1/vim-primary-1.md)
   * [Vim初探系列2](chapter1/vim-primary-2.md)
@@ -10,4 +11,6 @@
 * [Vim进阶系列](chapter2.md)
   * [Vim进阶系列1](chapter2/vim-interm-1.md)
   * [Vim进阶系列2](chapter2/vim-interm-2.md)
+
+
 

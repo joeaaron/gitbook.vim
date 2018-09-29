@@ -1,4 +1,7 @@
 {
+    "theme-default": {
+            "showLevel": true
+        },
     "links": {
         "sidebar": {
             "Home": "http://joeaaron.tech"
