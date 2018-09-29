@@ -4,41 +4,7 @@
 
 添加：
 
-`map <F5> :call CompileRunGcc()<CR>`
-
-`func! CompileRunGcc()`
-
-`exec "w"`
-
-`if &filetype == 'c'`
-
-`exec "!g++ % -o %<"`
-
-`exec "! ./%<"`
-
-`elseif &filetype == 'cpp'`
-
-`exec "!g++ % -o %<"`
-
-`exec "! ./%<"`
-
-`elseif &filetype == 'java'`
-
-`exec "!javac %"`
-
-`exec "!java %<"`
-
-`elseif &filetype == 'python'`
-
-`exec "!time python2.7 %"`
-
-`elseif &filetype == 'sh'`
-
-`:!./%`
-
-`endif`
-
-`endfunc`
+![](/assets/2-3.png)
 
 ## YouCompleteMe {#youcompleteme}
 
