@@ -8,4 +8,6 @@
   * [Vim初探系列4](chapter1/vim-primary-4.md)
   * [Vim初探系列5](chapter1/vim-primary-5.md)
 * [Vim进阶系列](chapter2.md)
+  * [Vim进阶系列1](chapter2/vim-interm-1.md)
+  * [Vim进阶系列2](chapter2/vim-interm-2.md)
 
